@@ -1,4 +1,4 @@
-# ☕ Cozy Café - Responsive Web Application
+# ☕ Cozy Cafe - Responsive Web Application
 
 A modern, elegant, and fully responsive single-page web application built for a local café business (**Cozy Café**, based in Balapur, Telangana). This project bridges front-end design with real-world business utility by integrating fully functional cloud-powered forms for live table reservations and customer inquiries.
 
