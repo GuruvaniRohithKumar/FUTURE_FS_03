@@ -25,6 +25,10 @@ This project was built as part of **Task 3: Local Business Website & Live Pitch 
 
 ---
 
+## 🌐 Live Deployment
+The project is continuously integrated and deployed live on the web! 
+👉 **[View My Live Cafe Site Here](https://cozycafe-two.vercel.app/)**
+
 ## 📂 File Architecture
 ```bash
 ├── index.html       # Structural markup containing layout grids and API forms
